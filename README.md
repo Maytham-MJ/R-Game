@@ -1,8 +1,7 @@
-# GameHub
+# R-Game
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
+R-Game is a video game discovery web app that helps you find new and exciting games. With R-Game, you can search for games by platform, genre, and more. 
 
-This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
 
 ## Getting Started
 
